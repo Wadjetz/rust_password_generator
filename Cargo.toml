@@ -5,4 +5,4 @@ authors = ["Egor Berezovskiy <egor.neon@gmail.com>"]
 
 [dependencies]
 error-chain = "0.10.0"
-rand = "0.3.16"
+rand = "0.4.2"
